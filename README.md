@@ -1,4 +1,4 @@
-# second_task_airplane
+# Demo Ticket Booking App
 
 A new Flutter project.
 
